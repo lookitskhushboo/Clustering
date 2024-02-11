@@ -24,4 +24,12 @@ Comparitive performance study of different clustering algorithms using different
 
 
 ## **4. Result**
-K-Means performs the best with 5 clusters. 
+K-Means performs the best with 5 clusters using Transformation, Normalization and PCA.
+<p>Transformation</p>
+<img src="kmeans_t.PNG" width="70%" height="70%">
+
+<p>Normalization</p>
+<img src="kmeans_n.PNG" width="70%" height="70%">
+
+<p>PCA</p>
+<img src="kmeans_pca.PNG" width="70%" height="70%">
